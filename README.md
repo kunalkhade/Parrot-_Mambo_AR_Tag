@@ -13,3 +13,6 @@ Two programs with zmq messaging
 2. Subscriber node subscribes to publisher node and converts translational vector into the movement of the drone 
 Two different movements mentioned yaw movement and vertical movement. 
 
+For more information - 
+contact - Kunal Khade 
+email - kunalkailas.khade@mines.sdsmt.edu
